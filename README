@@ -1,5 +1,5 @@
 Description: 
 
-A reimplementation of fast and interpretable reparamterization of ridge regression（Fractional Ridge Regression) in R, 
+This repository provides a reimplementation of fast and interpretable reparamterization of ridge regression（Fractional Ridge Regression) in R, 
 for BIOSTATS 615 course final project of University of Michigan. Reference of this algorithm: Rokem, A., & Kay, K. (2020)
 (https://academic.oup.com/gigascience/article/9/12/giaa133/6011381).
